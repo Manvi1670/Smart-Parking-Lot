@@ -25,7 +25,7 @@ The testbench simulates various scenarios:
 ### Sample Output
 
 
-In the file [output]()
+In the file [output](output.txt)
 
 ### Simulation Link
 

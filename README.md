@@ -24,7 +24,7 @@ The testbench simulates various scenarios:
 
 ### EP Wave Screenshot
 
-[Waveform](EP WAVE.png)
+[Waveform](https://github.com/Manvi1670/Smart-Parking-Lot/blob/a8cb915193ee0c8c11fc4339aa2d65630f5e730e/EP%20WAVE.png)
 
 ### Sample Output
 

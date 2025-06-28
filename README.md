@@ -20,7 +20,11 @@ The testbench simulates various scenarios:
 - Sequential car entries and exits
 - Boundary conditions (full lot, empty lot)
 - Attempted overfill (ignored when full)
-- File logging of simulation results (`output.txt`) 
+- File logging of simulation results (`output.txt`)
+
+### EP Wave Screenshot
+
+[Waveform](EP WAVE.png)
 
 ### Sample Output
 

@@ -20,7 +20,7 @@ The testbench (`smart_parking_lot_tb`) simulates various scenarios:
 - Sequential car entries and exits
 - Boundary conditions (full lot, empty lot)
 - Attempted overfill (ignored when full)
-- File logging of simulation results (`output.txt`)
+- File logging of simulation results (`output.txt`) 
 
 ### Sample Output
 

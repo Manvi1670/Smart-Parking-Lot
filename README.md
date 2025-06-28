@@ -15,7 +15,7 @@ This project simulates a smart parking lot system using Verilog, designed to man
 
 ## 🧪 Testbench Highlights
 
-The testbench (`smart_parking_lot_tb`) simulates various scenarios:
+The testbench simulates various scenarios:
 - System reset
 - Sequential car entries and exits
 - Boundary conditions (full lot, empty lot)

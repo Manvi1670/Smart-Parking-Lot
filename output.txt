@@ -1,0 +1,17 @@
+Time | Cars | Full | Available
+Time: 0 | Cars:  0 | Full: x | Available: x
+Time: 0 | Cars:  0 | Full: 0 | Available: 1
+Time: 25000 | Cars:  1 | Full: 0 | Available: 1
+Time: 45000 | Cars:  2 | Full: 0 | Available: 1
+Time: 65000 | Cars:  3 | Full: 0 | Available: 1
+Time: 85000 | Cars:  2 | Full: 0 | Available: 1
+Time: 105000 | Cars:  3 | Full: 0 | Available: 1
+Time: 125000 | Cars:  4 | Full: 0 | Available: 1
+Time: 145000 | Cars:  5 | Full: 0 | Available: 1
+Time: 165000 | Cars:  6 | Full: 0 | Available: 1
+Time: 185000 | Cars:  7 | Full: 0 | Available: 1
+Time: 205000 | Cars:  8 | Full: 0 | Available: 1
+Time: 205000 | Cars:  8 | Full: 1 | Available: 0
+Time: 245000 | Cars:  7 | Full: 1 | Available: 0
+Time: 245000 | Cars:  7 | Full: 0 | Available: 1
+Time: 265000 | Cars:  6 | Full: 0 | Available: 1
